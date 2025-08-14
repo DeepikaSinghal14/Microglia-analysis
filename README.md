@@ -15,3 +15,9 @@ The proportion of microglia each state was identified to find out the response o
 The microglia were segmented using the 3DMorph MATLAB script.
 
 <img width="473" height="226" alt="image" src="https://github.com/user-attachments/assets/b4a110e1-0c54-416e-9463-ad82aa7c5d0d" />
+
+An unsupervised PAM clustering method was used for the clustering of the cells accorsing to teh extracted features into 3 main clusters:
+<img width="473" height="294" alt="image" src="https://github.com/user-attachments/assets/6a66fa71-bcc5-4c40-9248-fb3e685d2c6f" />
+(Details in the paper)
+
+As a results males were found to posses higher proportion of primed and activated microglia and females had higher surveillant state of microglia.
